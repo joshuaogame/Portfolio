@@ -19,36 +19,30 @@ experiences:
     overview: La Salle College Antipolo is committed to building up educational communities that demonstrate commitment to young people, especially those who are poor, by providing them with access to a human and Christian education that enables them to participate in the transformation of society.
   positions:
   - designation: IT Support Specialist
-    start: June 2018
+    start: June 2018 - Present
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - Maintains network-related devices like Layer 1, Layer 2, Access Points, Voice
+      - Manages Google Admin and Office365 accounts
+      - Installs and troubleshoots software and hardware
+      - Handles physical and remote network support
+      - Installs IP cameras inside the campus
+      - Assists in production events
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Pacific Network
+    url: "https://www.facebook.com/pcfcnetwork"
+    location: ""
+    overview: "Pacific is a coterie established to boost the development of the gaming and Esports status in the Philippines."
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Content Creator
+    start: April 2016
+    end: June 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Wrote feature articles on Esports and gaming news, updates, and events.
+    - Updated team and player profiles.
 
 - company:
     name: Meralco
