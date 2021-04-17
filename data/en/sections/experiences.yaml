@@ -13,13 +13,13 @@ experiences:
 - company:
     name: La Salle College Antipolo
     url: "https://www.lsca.edu.ph"
-    location: La Salle College Antipolo, Antipolo City
+    location: La Salle College Antipolo, Rizal
 
     # company overview
     overview: La Salle College Antipolo is committed to building up educational communities that demonstrate commitment to young people, especially those who are poor, by providing them with access to a human and Christian education that enables them to participate in the transformation of society.
   positions:
   - designation: IT Support Specialist
-    start: June 2018 - Present
+    start: June 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -34,7 +34,6 @@ experiences:
 - company:
     name: Pacific Network
     url: "https://www.facebook.com/pcfcnetwork"
-    location: ""
     overview: "Pacific is a coterie established to boost the development of the gaming and Esports status in the Philippines."
   positions:
   - designation: Content Creator
