@@ -20,13 +20,9 @@ degrees:
     scale: CGPA
     achieved: 3.6
     outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  Capstone: #(optional)
+- title: Online grading system for College of San Benildo Rizal.
+
 - name: Tertiary education - Bachelor of Science in Information Technology
   icon: fa-graduation-cap
   timeframe: 2014-2017
