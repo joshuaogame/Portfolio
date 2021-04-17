@@ -78,11 +78,11 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: La Salle College of Antipolo
+- name: Secondary education
   icon: fa-graduation-cap
   timeframe: 2008-2012
   institution:
-    name: Secondary education
+    name: La Salle College of Antipolo
     url: "https://www.lsca.edu.ph/"
   grade: #(optional)
     scale: GPA
