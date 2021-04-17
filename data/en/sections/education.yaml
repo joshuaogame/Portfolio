@@ -21,7 +21,7 @@ degrees:
     achieved: 3.6
     outOf: 4
   Capstone: #(optional)
-- title: Online grading system for College of San Benildo Rizal.
+  -name: Online grading system for College of San Benildo Rizal.
 
 - name: Tertiary education - Bachelor of Science in Information Technology
   icon: fa-graduation-cap
@@ -37,17 +37,17 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
+    - name: Capstone (Project Development)
+      achieved: 3.0
       outOf: 4
-    - name: Network Security
-      achieved: 3.80
+    - name: Computer organization and Architecture
+      achieved: 3.0
       outOf: 4
-    - name: Operating System
-      achieved: 3.5
+    - name: Internship
+      achieved: 4.0
       outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
+    - name: Database Management System
+      achieved: 2.5
       outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
