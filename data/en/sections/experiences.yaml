@@ -6,7 +6,7 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
@@ -51,15 +51,16 @@ experiences:
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Meralco
+    url: "https://www.meralco.com.ph/"
+    location: "1600 Ortigas Ave, Pasig, Metro Manila"
+    overview: "Meralco celebrates 118 years of service in 2021.  The Company is the largest private sector electric distribution utility company in the Philippines covering 36 cities and 75 municipalities.  Its franchise area of over 9,685 km2  includes the country’s industrial, commercial, and population centers.  Meralco ended 2019 with a market capitalization of PhP357.3 billion."
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Business Analyst Intern
+    start: July 2016
+    end: September 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Created infographics using Tableau Desktop and Microsoft Power BI.
+    - Assisted in and produced employee accounts for the Facebook@Work launch.
+    - Researched, designed PowerPoint visuals, populated data, and performed data wrangling for the live event MTECH 2016.
+    - Worked on hardware assembly of tripods, cameras, cables, and software troubleshooting for Open Broadcaster Software, SparkoCam, and YouTube Live.
