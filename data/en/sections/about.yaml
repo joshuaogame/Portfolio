@@ -31,9 +31,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/joshuaogame"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+- name: Liquipedia
+  icon: "fab fa-gamepad"
+  url: "https://www.liquipedia.net/overwatch/Grandeesauto"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -41,11 +41,11 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "www.twitter.com/ogaaamster"
+  url: "https://www.twitter.com/ogaaamster"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "www.facebook.com/joshuaogamster"
+  url: "https://www.facebook.com/joshuaogamster"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
