@@ -11,7 +11,7 @@ section:
 
 degrees:
 - name: Masters in Information Security
-  icon: fa-shield
+  icon: fa-user-secret
   timeframe: Present
   institution:
     name: De La Salle University Manila
