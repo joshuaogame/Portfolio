@@ -10,9 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Cisco Certified Network Associate 200-301
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
+- title: Cisco
+  image: /images/sections/achievements/ccna.jpeg
+  summary: Cisco Certified Network Associate 200-301
 - title: Champion
   image: /images/sections/achievements/sport.jpg
   summary: Champion in cycling inter-city cycling championship 2020.
