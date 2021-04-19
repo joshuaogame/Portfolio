@@ -64,10 +64,10 @@ projects:
   summary: Blizzard announced their new system na pwede na mag participate ang lahat ng countries basta sh-shoulder nila ang expenses via sponsor or by their own pocket. Sa tulong ng community, nakausap nila ang Bren and willing sila tumulong para maitaas ang Pilipinas sa World Cup 2019.
   tags: ["overwatch","offtank",]
 
-  - name: fiVe
-    logo: /images/sections/projects/five.jpg
-    role: Off-tank
-    timeline: "May 2020 - June 2020"
-    url: https://www.facebook.com/fivevalorantph
-    summary: Beta palang ang game and wala pang server ang Asia, ang team namin ay nag dodominate na sa Philippines. Winning back to back tournaments for a handful of months. The team consists of ex-Dota veteran, ex-CSGO veteran and four well known Overwatch players.
-    tags: ["valorant","initiator",]
+- name: fiVe
+  logo: /images/sections/projects/five.jpg
+  role: Off-tank
+  timeline: "May 2020 - June 2020"
+  url: https://www.facebook.com/fivevalorantph
+  summary: Beta palang ang game and wala pang server ang Asia, ang team namin ay nag dodominate na sa Philippines. Winning back to back tournaments for a handful of months. The team consists of ex-Dota veteran, ex-CSGO veteran and four well known Overwatch players.
+  tags: ["valorant","initiator",]
