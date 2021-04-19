@@ -34,11 +34,10 @@ projects:
 - name: Miraculum E-Sports
   logo: /images/sections/projects/mirac.png
   role: Off-tank, Flex
-  timeline: "July 2017"
-  url: "https://www.facebook.com/TeamNovusGG/"
-  #url: ""
-  summary: "Grandeesauto" as my ingame name. We competed in Malaysia for Red bull tournament.
-  tags: ["overwatch", "progaming"]
+  timeline: "July 2018"
+  url: https://www.facebook.com/TeamNovusGG/
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["progaming", "overwatch"]
 
 - name: A sample academic paper
   role: Team Lead
