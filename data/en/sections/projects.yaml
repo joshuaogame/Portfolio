@@ -24,7 +24,7 @@ projects:
 - name: Blast Vikings
   logo: /images/sections/projects/blast.png
   role: Support, Flex
-  timeline: "April 2017"
+  timeline: "May 2017"
   url: https://www.facebook.com/HeroesUprisingPOT/photos/a.1681427532154201/1688622934767994
    # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -34,7 +34,7 @@ projects:
 - name: Miraculum E-Sports
   logo: /images/sections/projects/mirac.png
   role: Off-tank, Flex
-  timeline: "July 2018"
+  timeline: "Aug 2018"
   url: https://www.facebook.com/TeamNovusGG/
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["progaming", "overwatch"]
