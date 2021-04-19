@@ -14,10 +14,10 @@ buttons:
   filter: "all"
 - name: Overwatch
   filter: "overwatch"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Valorant
+  filter: "valorant"
+- name: PUBG
+  filter: "pubg"
 
 # your projects
 projects:
@@ -36,29 +36,30 @@ projects:
   role: Off-tank, Flex
   timeline: "Aug 2018 - Dec 2018"
   url: https://www.facebook.com/TeamNovusGG/
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["progaming", "overwatch"]
+  summary: Now known as Team Novus, Miraculum became my organization for the following years.
+  tags: ["overwatch", "progaming", "off-tank"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Nam-E Fighters
+  logo: /images/sections/projects/name.jpg
+  role: Main Support
+  timeline: "April 2019 - May 2019"
+  url: https://liquipedia.net/overwatch/Far_East_Society
+  summary: Prior to the rebrand, Nam-E fighters was the sister team of Bad to the bone. By out qualifying BTTB to the contenders, Nam-E became the main focus of the organization.
+  tags: ["overwatch","mainsupport"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: Far East Society
+  logo: /images/sections/projects/fes.png
+  role: Main Support
+  timeline: "May 2019 - Aug 2019"
+  repo: https://fes.gg/
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: After the rebrand of Nam-E Fighters, Far East Society is a multi-national team operated by a handful of staff in pacific. After successfully managing to secure a slot in Contenders, FES also created teams from different titles and became one of thge powerhouses in Asia Pacific.
+  tags: ["overwatch", "mainsupport"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Bren Esports
+  logo: /images/sections/projects/bren.jpg
+  role: Off-tank
+  timeline: "July 2019 - November 2019"
+  url: https://www.facebook.com/BrenEsports
+  summary: Blizzard announced their new system na pwede na mag participate ang lahat ng countries basta sh-shoulder nila ang expenses via sponsor or by their own pocket. Sa tulong ng community, nakausap nila ang Bren and willing sila tumulong para maitaas ang Pilipinas sa World Cup 2019.
+  tags: ["overwatch","offtank","professional"]
