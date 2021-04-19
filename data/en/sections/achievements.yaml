@@ -11,14 +11,14 @@ section:
 # Your achievements achievements
 achievements:
 - title: Cisco
-  image: /images/sections/achievements/ccna.jpeg
+  image: /images/sections/achievements/ccna.jpg
   summary: Cisco Certified Network Associate 200-301
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: Excel
+  image: /images/sections/achievements/excel.jpg
+  summary: Microsoft Office Specialist - Excel
+- title: Gsuite
+  image: /images/sections/achievements/gsuite.jpg
+  summary: Google Education Essential Apps GCE Level 1 Content
+- title: Rivan
+  image: /images/sections/achievements/rivan.jpg
+  summary: CCNA Bootcamp Training
