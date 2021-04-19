@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Professional Gaming
   id: projects
   enable: true
   weight: 5
@@ -12,8 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
+- name: Overwatch
+  filter: "overwatch"
 - name: Academic
   filter: "academic"
 - name: Hobby
@@ -21,14 +21,15 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: Blast Vikings
+  logo: /images/sections/projects/blast.png
+  role: Support, Flex
+  timeline: "March 2016 - 2017"
+  url: https://www.facebook.com/HeroesUprisingPOT/photos/a.1681427532154201/1688622934767994
+   # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: My first team locally. I used "Hundredth" as ingame name. We competed in local and pacific scene alongside Mineski.
+  tags: ["overwatch", "progaming", "support"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
