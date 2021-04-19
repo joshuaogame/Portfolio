@@ -1,7 +1,7 @@
 # section information
 section:
   name: Certifications
-  id: certifications
+  id: achivements
   enable: true
   weight: 8
   showOnNavbar: true
@@ -9,7 +9,7 @@ section:
   # hideTitle: true
 
 # Your achievements achievements
-certifications:
+achievements:
 - title: Cisco
   image: /images/sections/achievements/ccna.jpg
   summary: Cisco Certified Network Associate 200-301
