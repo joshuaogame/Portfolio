@@ -29,7 +29,7 @@ projects:
    # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: My first team locally. I used "Hundredth" as my ingame name. We competed in local and pacific scene alongside Mineski.
-  tags: ["overwatch", "progaming", "support"]
+  tags: ["overwatch", "support"]
 
 - name: Miraculum E-Sports
   logo: /images/sections/projects/mirac.png
@@ -37,7 +37,7 @@ projects:
   timeline: "Aug 2018 - Dec 2018"
   url: https://www.facebook.com/TeamNovusGG/
   summary: Now known as Team Novus, Miraculum became my organization for the following years.
-  tags: ["overwatch", "progaming", "off-tank"]
+  tags: ["overwatch", "off-tank"]
 
 - name: Nam-E Fighters
   logo: /images/sections/projects/name.jpg
@@ -62,4 +62,12 @@ projects:
   timeline: "July 2019 - November 2019"
   url: https://www.facebook.com/BrenEsports
   summary: Blizzard announced their new system na pwede na mag participate ang lahat ng countries basta sh-shoulder nila ang expenses via sponsor or by their own pocket. Sa tulong ng community, nakausap nila ang Bren and willing sila tumulong para maitaas ang Pilipinas sa World Cup 2019.
-  tags: ["overwatch","offtank","professional"]
+  tags: ["overwatch","offtank",]
+
+  - name: fiVe
+    logo: /images/sections/projects/five.jpg
+    role: Off-tank
+    timeline: "May 2020 - June 2020"
+    url: https://www.facebook.com/fivevalorantph
+    summary: Beta palang ang game and wala pang server ang Asia, ang team namin ay nag dodominate na sa Philippines. Winning back to back tournaments for a handful of months. The team consists of ex-Dota veteran, ex-CSGO veteran and four well known Overwatch players.
+    tags: ["valorant","initiator",]
