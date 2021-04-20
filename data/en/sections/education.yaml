@@ -17,9 +17,7 @@ degrees:
     name: De La Salle University Manila
     url: "#"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    scale: Master in Information Security
   publications: #(optional)
   - title: ""
     url: "#"
