@@ -51,7 +51,7 @@ projects:
   logo: /images/sections/projects/fes.png
   role: Main Support
   timeline: "May 2019 - Aug 2019"
-  repo: https://fes.gg/
+  url: https://fes.gg/
   #url: ""
   summary: After the rebrand of Nam-E Fighters, Far East Society is a multi-national team operated by a handful of staff in pacific. After successfully managing to secure a slot in Contenders, FES also created teams from different titles and became one of thge powerhouses in Asia Pacific.
   tags: ["overwatch", "mainsupport"]
@@ -65,9 +65,17 @@ projects:
   tags: ["overwatch","offtank",]
 
 - name: fiVe
-  logo: /images/sections/projects/five.jpg
-  role: Off-tank
+  logo: /images/sections/projects/five.png
+  role: Initiator
   timeline: "May 2020 - June 2020"
   url: https://www.facebook.com/fivevalorantph
   summary: Beta palang ang game and wala pang server ang Asia, ang team namin ay nag dodominate na sa Philippines. Winning back to back tournaments for a handful of months. The team consists of ex-Dota veteran, ex-CSGO veteran and four well known Overwatch players.
+  tags: ["valorant","initiator",]
+
+- name: Adroit Esports
+  logo: /images/sections/projects/adroit.jpg
+  role: Initiator
+  timeline: "June 2020"
+  url: https://www.facebook.com/adroitesportsgg
+  summary: After getting recognization in the local scene, team fiVe received an offer from one of the well-established organization in the Philippines. Adroit Esports saw a potential to the team and invested their resources. But pandemic strike them hard and hindi na nila tinuloy ang contract nila sa valorant team and also sa dota team.
   tags: ["valorant","initiator",]
