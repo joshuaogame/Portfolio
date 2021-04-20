@@ -13,8 +13,6 @@ experiences:
 - company:
     name: La Salle College Antipolo
     url: "https://www.lsca.edu.ph"
-    location: 1985 La Salle Avenue, Town and Country Heights Subdivision, Brgy. San Luis, Antipolo City, Rizal Philippines 1870
-
     # company overview
     overview: La Salle College Antipolo is a private institution committed to delivering high quality, transformative education to learners from preschool to senior high school.
   positions:
@@ -37,8 +35,8 @@ experiences:
     overview: Pacific Network is an online site created to boost the status and development of the Philippine Esports scene.
   positions:
   - designation: Content Creator
-    start: April 2017
-    end: June 2017
+    timeframe: April 2017-June 2017
+
     responsibilities:
     - Wrote feature articles on Esports and gaming news, updates, and events
     - Updated team and player profiles

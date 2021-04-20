@@ -11,39 +11,40 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Cisco
+  logo: /images/sections/skills/cisco.png
+  summary: "After completing training from Rivan School of Technology and obtaining certification as a Cisco Network Associate, I am proficient in configuring and managing Cisco devices."
+  url: "https://cisco.com"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Microsoft Office
+  logo: /images/sections/skills/office.jpg
+  summary: "Aside from advanced knowledge in using classic Microsoft tools, including Microsoft Visio, and Azure, I am a certified Microsoft Office Specialist in Excel."
+  url: "https://office.com"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "I use a variety of programming language depending on the type and purpose of projects."
+  url: "https://python.org"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Multimedia
+  logo: /images/sections/skills/obs.png
+  summary: "Using Photoshop, Premiere Pro, Sony Vegas, and OBS, I am able to create relevant and appealing content."
+  url: "https://obsproject.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Virtualization
+  logo: /images/sections/skills/azure.png
+  summary: "I have experience with virtualization using VMWare and Microsoft Azure."
+  url: "https://portal.azure.com"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Ubiquity
+  logo: /images/sections/skills/ubi.png
+  summary: "Having extensive experience with maintaining network-related devices, I am skilled in working with routers, access points, and switches.."
+  url: "https://www.ui.com/"
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Hardware
+  logo: /images/sections/skills/hardware.png
+  summary: "On the side, I scout and assemble computers and troubleshoot various hardware issues for fun!"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Korean and Sign Language
+  logo: /images/sections/skills/sign.jpg
+  summary: "To enrich my professional gaming career and personal advocacy towards the Deaf community, I can converse in both Korean and Sign Language."
