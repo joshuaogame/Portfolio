@@ -88,7 +88,7 @@ projects:
   tags: ["pubg", "local"]
 
 - name: ANBU
-  logo: /images/sections/projects/anbu.png
+  logo: /images/sections/projects/anbu.jpg
   role: Support, Rifler
   timeline: "July 2020"
   url: https://liquipedia.net/pubg/PUBG_Philippine_Series/2020/Season_1
