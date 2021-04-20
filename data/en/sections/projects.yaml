@@ -28,7 +28,7 @@ projects:
   url: https://www.facebook.com/HeroesUprisingPOT/photos/a.1681427532154201/1688622934767994
    # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: My first team locally. I used "Hundredth" as my ingame name. We competed in local and pacific scene alongside Mineski.
+  summary: Blast Vikings competed in the local and pacific scenes alongside Mineski. Here I used “Hundredth” as my in-game name.
   tags: ["overwatch", "support"]
 
 - name: Miraculum E-Sports
@@ -36,7 +36,7 @@ projects:
   role: Off-tank, Flex
   timeline: "Aug 2018 - Dec 2018"
   url: https://www.facebook.com/TeamNovusGG/
-  summary: Now known as Team Novus, Miraculum became my organization for the following years.
+  summary: Now known as Team Novus, Miraculum won several competitions such as qualifying for Red Bull Coliseum Overwatch, Champions of   with me as Off-tank and Flex player.
   tags: ["overwatch", "off-tank"]
 
 - name: Nam-E Fighters
@@ -44,7 +44,7 @@ projects:
   role: Main Support
   timeline: "April 2019 - May 2019"
   url: https://liquipedia.net/overwatch/Far_East_Society
-  summary: Prior to the rebrand, Nam-E fighters was the sister team of Bad to the bone. By out qualifying BTTB to the contenders, Nam-E became the main focus of the organization.
+  summary: Prior to the rebrand, Nam-E fighters was the sister team of Bad to the Bone. I played as the team's Main Support, securing the team into the 2019 contenders.
   tags: ["overwatch","mainsupport"]
 
 - name: Far East Society
@@ -53,7 +53,7 @@ projects:
   timeline: "May 2019 - Aug 2019"
   url: https://fes.gg/
   #url: ""
-  summary: After the rebrand of Nam-E Fighters, Far East Society is a multi-national team operated by a handful of staff in pacific. After successfully managing to secure a slot in Contenders, FES also created teams from different titles and became one of thge powerhouses in Asia Pacific.
+  summary: After the rebrand of Nam-E Fighters, Far East Society became a multinational team and one of the powerhouses in the Asia Pacific. As a Support player, we won 2nd in Open Division 2019 Season 2 - Pacific, 2nd in Overwatch Contenders 2019 Season 2 Trials: Pacific and 3rd in	Overwatch Contenders 2019 Season 2: Pacific.
   tags: ["overwatch", "mainsupport"]
 
 - name: Bren Esports
@@ -61,7 +61,7 @@ projects:
   role: Off-tank
   timeline: "July 2019 - November 2019"
   url: https://www.facebook.com/BrenEsports
-  summary: Blizzard announced their new system na pwede na mag participate ang lahat ng countries basta sh-shoulder nila ang expenses via sponsor or by their own pocket. Sa tulong ng community, nakausap nila ang Bren and willing sila tumulong para maitaas ang Pilipinas sa World Cup 2019.
+  summary: When Blizzard announced the qualification of all countries in the upcoming Overwatch World Cup, Bren Esports was quick to sponsor the training and participation of the first National Overwatch Team in the Philippines. I served as Off-tank representing the country in Anaheim, California.
   tags: ["overwatch","offtank",]
 
 - name: fiVe
@@ -69,7 +69,7 @@ projects:
   role: Initiator
   timeline: "May 2020 - June 2020"
   url: https://www.facebook.com/fivevalorantph
-  summary: Beta palang ang game and wala pang server ang Asia, ang team namin ay nag dodominate na sa Philippines. Winning back to back tournaments for a handful of months. The team consists of ex-Dota veteran, ex-CSGO veteran and four well known Overwatch players.
+  summary: While the game was still in beta and had no Asian servers yet, our team had already been dominating the Valorant scene in the country. With me as initiator, the team won several tournaments.
   tags: ["valorant","initiator",]
 
 - name: Adroit Esports
@@ -77,5 +77,5 @@ projects:
   role: Initiator
   timeline: "June 2020"
   url: https://www.facebook.com/adroitesportsgg
-  summary: After getting recognization in the local scene, team fiVe received an offer from one of the well-established organization in the Philippines. Adroit Esports saw a potential to the team and invested their resources. But pandemic strike them hard and hindi na nila tinuloy ang contract nila sa valorant team and also sa dota team.
+  summary: Team fiVe received sponsorship and rebranding from Adroit Esports. Here we won the tournaments Closed Beta Closeout, Khrusher's Cup, Yasumeow X Corsair, Siklab Invitational.
   tags: ["valorant","initiator",]
