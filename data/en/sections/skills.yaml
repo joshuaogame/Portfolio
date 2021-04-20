@@ -12,12 +12,12 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Cisco
-  logo: /images/sections/skills/cisco.png
+  logo: /images/sections/skills/cisco.jpg
   summary: "After completing training from Rivan School of Technology and obtaining certification as a Cisco Network Associate, I am proficient in configuring and managing Cisco devices."
   url: "https://cisco.com"
 
 - name: Microsoft Office
-  logo: /images/sections/skills/office.jpg
+  logo: /images/sections/skills/office.png
   summary: "Aside from advanced knowledge in using classic Microsoft tools, including Microsoft Visio, and Azure, I am a certified Microsoft Office Specialist in Excel."
   url: "https://office.com"
 
