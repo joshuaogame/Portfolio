@@ -16,7 +16,7 @@ degrees:
   institution:
     name: De La Salle University Manila
     url: "#"
-  name: Master in Information Security
+  - name: Master in Information Security
   coursework: #(optional)
   - title: "IT Foundations"
     url: "#"
