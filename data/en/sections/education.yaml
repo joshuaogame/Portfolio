@@ -17,13 +17,27 @@ degrees:
     name: De La Salle University Manila
     url: "#"
   grade: #(optional)
-    scale: Master in Information Security
+    name: Master in Information Security
   publications: #(optional)
-  - title: ""
+  - title: "IT Foundations"
     url: "#"
-  - title: ""
+  - title: "Introduction to Information Security"
     url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  - title: "Technical Writing for IT"
+    url: "#"
+  - title: "Application and Data Security"
+    url: "#"
+  - title: "Network Security"
+    url: "#"
+  - title: "Vulnerability Assessment and Management"
+    url: "#"
+  - title: "Cybersecurity Operations"
+    url: "#"
+  - title: "System Continuity and Disaster Recovery"
+    url: "#"
+  - title: "Network Security"
+    url: "#"
+  - title: "Vulnerability Assessment and Management"
     url: "#"
 - name: Tertiary education - Bachelor of Science in Information Technology
   icon: fa-graduation-cap
