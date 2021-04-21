@@ -63,10 +63,10 @@ softSkills:
 - name: Networking
   percentage: 100
   color: green
-- name: Professional Gaming
+- name: Gaming
   percentage: 100
   color: sky
-- name: Foreign Languagages
+- name: Languages
   percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
