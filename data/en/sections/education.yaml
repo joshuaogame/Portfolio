@@ -16,7 +16,7 @@ degrees:
   institution:
     location: Taft Avenue, Manila
     url: "#"
-  name: Master in Information Security
+  courses:
   - title: "IT Foundations"
   - title: "Introduction to Information Security"
   - title: "Technical Writing for IT"
@@ -34,7 +34,7 @@ degrees:
   institution:
     name: College of San Benildo Rizal
     url: "#"
-  name: Bachelor of Science in Information Technology
+  courses:
   - title: "Computer Organization and Architecture"
   - title: "Computer Programming"
   - title: "Database Management system"
@@ -55,6 +55,7 @@ degrees:
   institution:
     name: Our Lady of Fatima University
     url: "https://www.fatima.edu.ph/"
+  courses:
   - title: "Computer Programming"
   - title: "CS/IT Fundamentals"
   - title: "Introduction to Internet & E-Commerce"
