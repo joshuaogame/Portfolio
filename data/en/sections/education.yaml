@@ -10,13 +10,13 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Taft Ave., Malate, Manila
+- name: De La Salle University Manila
   icon: fa-user-secret
   timeframe: Present
   institution:
-    name: De La Salle University Manila
+    name: Taft Avenue, Manila
     url: "#"
-    name: Master in Information Security
+    name:
   publications: #(optional)
   - title: "IT Foundations"
   - title: "Introduction to Information Security"
