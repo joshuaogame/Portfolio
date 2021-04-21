@@ -17,7 +17,6 @@ degrees:
     location: Taft Avenue, Manila
     url: "#"
     name: Master in Information Security
-  publications: #(optional)
   - title: "IT Foundations"
   - title: "Introduction to Information Security"
   - title: "Technical Writing for IT"
@@ -29,58 +28,43 @@ degrees:
   - title: "Network Security"
   - title: "Vulnerability Assessment and Management"
 
-- name: Tertiary education - Bachelor of Science in Information Technology
+- name: Antipolo City, Rizal
   icon: fa-graduation-cap
   timeframe: 2014-2017
   institution:
     name: College of San Benildo Rizal
     url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Capstone (Project Development)
-      achieved: 3.0
-      outOf: 4
-    - name: Computer organization and Architecture
-      achieved: 3.0
-      outOf: 4
-    - name: Internship
-      achieved: 4.0
-      outOf: 4
-    - name: Database Management System
-      achieved: 2.0
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - ""
-- name: Tertiary education - Bachelor of Science in Information Technology
+  - title: "Computer Organization and Architecture"
+  - title: "Computer Programming"
+  - title: "Database Management system"
+  - title: "Operating Systems Application"
+  - title: "Web Design and Development"
+  - title: "Systems Analysis and Design"
+  - title: "Current and Future Trends in IT"
+  - title: "Professional Computer Ethics"
+  - title: "Software Engineering"
+  - title: "Multimedia Systems and Animation"
+  - title: "System/Database Administration"
+  - title: "Network Management"
+  - title: "Capstone Project: Technopreneurship"
+
+- name: Antipolo City, Rizal
   icon: fa-university
   timeframe: 2012-2014
   institution:
     name: Our Lady of Fatima University
     url: "https://www.fatima.edu.ph/"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - ""
-- name: Secondary education
+  - title: "Computer Programming"
+  - title: "CS/IT Fundamentals"
+  - title: "Introduction to Internet & E-Commerce"
+  - title: "Data Structures"
+  - title: "Database Management"
+  - title: "Multimedia"
+
+- name: Antipolo City, Rizal
   icon: fa-graduation-cap
   timeframe: 2008-2012
   institution:
     name: La Salle College of Antipolo
     url: "https://www.lsca.edu.ph/"
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  name: Secondary Education
