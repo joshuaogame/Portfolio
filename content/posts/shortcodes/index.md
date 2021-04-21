@@ -1,5 +1,5 @@
 ---
-title: "Shortcodes Samples"
+title: "Professional Gaming Clips"
 date: 2020-06-08T08:06:25+06:00
 description: Shortcodes sample
 menu:
@@ -107,7 +107,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed
 
 ##### Middle Column
 
-Aenean dignissim dictum ex. Donec a nunc vel nibh placerat interdum. 
+Aenean dignissim dictum ex. Donec a nunc vel nibh placerat interdum.
 
 ---
 

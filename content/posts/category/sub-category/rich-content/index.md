@@ -1,5 +1,5 @@
 ---
-title: "Rich Content"
+title: "Moosh & Moorie Adventures"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
@@ -8,7 +8,7 @@ menu:
     identifier: rich-content
     parent: sub-category
     weight: 10
-hero: images/forest.jpg
+hero: images/moo.jpg
 ---
 
 This sample post tests the followings:
