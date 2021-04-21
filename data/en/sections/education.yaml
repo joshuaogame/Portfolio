@@ -14,7 +14,7 @@ degrees:
   icon: fa-user-secret
   timeframe: Present
   institution:
-    name: Taft Avenue, Manila
+    location: Taft Avenue, Manila
     url: "#"
     name: Master in Information Security
   publications: #(optional)
@@ -28,7 +28,7 @@ degrees:
   - title: "Application and Data Security"
   - title: "Network Security"
   - title: "Vulnerability Assessment and Management"
-  
+
 - name: Tertiary education - Bachelor of Science in Information Technology
   icon: fa-graduation-cap
   timeframe: 2014-2017
