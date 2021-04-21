@@ -13,6 +13,7 @@ experiences:
 - company:
     name: La Salle College Antipolo
     url: "https://www.lsca.edu.ph"
+    location: "Antipolo City"
     # company overview
     overview: La Salle College Antipolo is a private institution committed to delivering high quality, transformative education to learners from preschool to senior high school.
   positions:
@@ -32,9 +33,11 @@ experiences:
 - company:
     name: Pacific Network
     url: "https://www.facebook.com/pcfcnetwork"
+    location: "Metro Manila"
     overview: Pacific Network is an online site created to boost the status and development of the Philippine Esports scene.
   positions:
   - designation: Content Creator
+    start: April 2017
     end: June 2017
 
     responsibilities:
@@ -44,12 +47,13 @@ experiences:
 - company:
     name: Meralco
     url: "https://www.meralco.com.ph/"
-    location: "1600 Ortigas Ave, Pasig, Metro Manila"
+    location: "Pasig City"
     overview: Meralco is the country's largest private electric distribution utility company. It also offers solar and net metering and is involved in various community efforts through aid programs.
   positions:
   - designation: Business Analyst Intern
     start: July 2016
     end: September 2016
+
     responsibilities:
     - Created infographics using Tableau Desktop and Microsoft Power BI.
     - Assisted in and produced employee accounts for the Facebook@Work launch.
