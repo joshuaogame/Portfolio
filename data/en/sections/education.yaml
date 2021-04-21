@@ -35,20 +35,21 @@ degrees:
   institution:
     name: College of San Benildo Rizal
     url: "#"
-  courses:
-  - title: "Computer Organization and Architecture"
-  - title: "Computer Programming"
-  - title: "Database Management system"
-  - title: "Operating Systems Application"
-  - title: "Web Design and Development"
-  - title: "Systems Analysis and Design"
-  - title: "Current and Future Trends in IT"
-  - title: "Professional Computer Ethics"
-  - title: "Software Engineering"
-  - title: "Multimedia Systems and Animation"
-  - title: "System/Database Administration"
-  - title: "Network Management"
-  - title: "Capstone Project: Technopreneurship"
+  takenCourses:
+    courses:
+      - name: "Computer Organization and Architecture"
+      - name: "Computer Programming"
+      - name: "Database Management system"
+      - name: "Operating Systems Application"
+      - name: "Web Design and Development"
+      - name: "Systems Analysis and Design"
+      - name: "Current and Future Trends in IT"
+      - name: "Professional Computer Ethics"
+      - name: "Software Engineering"
+      - name: "Multimedia Systems and Animation"
+      - name: "System/Database Administration"
+      - name: "Network Management"
+      - name: "Capstone Project: Technopreneurship"
 
 - name: Antipolo City, Rizal
   icon: fa-university
@@ -56,13 +57,14 @@ degrees:
   institution:
     name: Our Lady of Fatima University
     url: "https://www.fatima.edu.ph/"
-  courses:
-  - title: "Computer Programming"
-  - title: "CS/IT Fundamentals"
-  - title: "Introduction to Internet & E-Commerce"
-  - title: "Data Structures"
-  - title: "Database Management"
-  - title: "Multimedia"
+  takenCourses:
+    courses:
+      - name: "Computer Programming"
+      - name: "CS/IT Fundamentals"
+      - name: "Introduction to Internet & E-Commerce"
+      - name: "Data Structures"
+      - name: "Database Management"
+      - name: "Multimedia"
 
 - name: Antipolo City, Rizal
   icon: fa-graduation-cap
