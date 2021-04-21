@@ -14,19 +14,20 @@ degrees:
   icon: fa-user-secret
   timeframe: Present
   institution:
-    location: Taft Avenue, Manila
+    name: Taft Avenue, Manila
     url: "#"
-  courses:
-  - title: "IT Foundations"
-  - title: "Introduction to Information Security"
-  - title: "Technical Writing for IT"
-  - title: "Application and Data Security"
-  - title: "Network Security"
-  - title: "Vulnerability Assessment and Management"
-  - title: "Cybersecurity Operations"
-  - title: "Application and Data Security"
-  - title: "Network Security"
-  - title: "Vulnerability Assessment and Management"
+  takenCourses:
+    courses:
+      - name: "IT Foundations"
+      - name: "Introduction to Information Security"
+      - name: "Technical Writing for IT"
+      - name: "Application and Data Security"
+      - name: "Network Security"
+      - name: "Vulnerability Assessment and Management"
+      - name: "Cybersecurity Operations"
+      - name: "Application and Data Security"
+      - name: "Network Security"
+      - name: "Vulnerability Assessment and Management"
 
 - name: Antipolo City, Rizal
   icon: fa-graduation-cap
