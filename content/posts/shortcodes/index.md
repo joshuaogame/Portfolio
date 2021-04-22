@@ -7,7 +7,7 @@ menu:
     name: Shortcodes Sample
     identifier: shortcodes
     weight: 40
-hero: gaming.jpg
+hero: gaming.png
 ---
 
 This is a sample post intended to test the followings:
