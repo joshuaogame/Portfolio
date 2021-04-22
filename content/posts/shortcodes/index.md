@@ -127,7 +127,7 @@ This is line two. It should have `4rem` vertical space with previous line.
 
 ## Video
 
-{{< video src="/videos/sample.mp4" >}}
+{{< video src="/videos/miracpubg.mp4" >}}
 
 <!-- markdown-link-check-disable-next-line -->
 Video by [Rahul Sharma](https://www.pexels.com/@rahul-sharma-493988) from [Pexels](https://www.pexels.com).
