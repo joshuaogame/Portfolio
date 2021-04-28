@@ -9,6 +9,9 @@ menu:
     weight: 40
 hero: gaming.png
 ---
+
+Sample post
+
 ## Video
 
 {{< video src="/videos/miracpubg.mp4" >}}
