@@ -10,12 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
-- name: De La Salle University Manila
+- name: Taft Avenue, Manila
   icon: fa-user-secret
   timeframe: Present
   institution:
-    name: Taft Avenue, Manila
-    url: "#"
+    name: De La Salle University Manila
+    url: "https://www.dlsu.edu.ph/"
   takenCourses:
     courses:
       - name: "IT Foundations"
@@ -34,7 +34,7 @@ degrees:
   timeframe: 2014-2017
   institution:
     name: College of San Benildo Rizal
-    url: "#"
+    url: "https://sanbenildo.edu.ph/"
   takenCourses:
     courses:
       - name: "Computer Organization and Architecture"

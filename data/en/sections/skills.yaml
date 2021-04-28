@@ -38,7 +38,7 @@ skills:
 
 - name: Ubiquity
   logo: /images/sections/skills/ubi.png
-  summary: "Having extensive experience with maintaining network-related devices, I am skilled in working with routers, access points, and switches.."
+  summary: "Having extensive experience with maintaining network-related devices, I am skilled in working with routers, access points, and switches."
   url: "https://www.ui.com/"
 
 - name: Hardware
@@ -47,4 +47,4 @@ skills:
 
 - name: Korean and Sign Language
   logo: /images/sections/skills/sign.jpg
-  summary: "To enrich my professional gaming career and personal advocacy towards the Deaf community, I can converse in both Korean and Sign Language."
+  summary: "To enrich my professional gaming career and personal advocacy towards the Deaf community, I can converse in both Korean and Sign Language in addition to Filipino and English."
