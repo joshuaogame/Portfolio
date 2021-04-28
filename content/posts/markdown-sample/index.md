@@ -2,8 +2,8 @@
 title: "Articles"
 date: 2021-04-28T08:06:25+06:00
 description: Written articles related to my gaming profile.
-menu:
 enable: false
+menu:
   sidebar:
     name: Articles
     identifier: markdown
