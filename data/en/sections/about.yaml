@@ -15,7 +15,7 @@ company:
   url: "https://www.lsca.edu.ph"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/#"
+resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am an aspiring network engineer with three years of solid experience in IT systems of the educational field.'
