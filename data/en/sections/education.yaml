@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Taft Avenue, Manila
+- name: Graduate School
   icon: fa-user-secret
   timeframe: Present
   institution:
@@ -29,7 +29,7 @@ degrees:
       - name: "Network Security"
       - name: "Vulnerability Assessment and Management"
 
-- name: Antipolo City, Rizal
+- name: Undergraduate
   icon: fa-graduation-cap
   timeframe: 2014-2017
   institution:
@@ -51,7 +51,7 @@ degrees:
       - name: "Network Management"
       - name: "Capstone Project: Technopreneurship"
 
-- name: Antipolo City, Rizal
+- name: Undergraduate
   icon: fa-university
   timeframe: 2012-2014
   institution:
@@ -66,10 +66,9 @@ degrees:
       - name: "Database Management"
       - name: "Multimedia"
 
-- name: Antipolo City, Rizal
+- name: Secondary Education
   icon: fa-graduation-cap
   timeframe: 2008-2012
   institution:
     name: La Salle College of Antipolo
     url: "https://www.lsca.edu.ph/"
-  name: Secondary Education
