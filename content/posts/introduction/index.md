@@ -7,6 +7,7 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
+hero: gaming.png
 ---
 
 Greeting! This is an introduction post. This post tests the followings:

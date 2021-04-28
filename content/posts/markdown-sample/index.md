@@ -7,9 +7,10 @@ menu:
     name: Articles
     identifier: markdown
     weight: 30
+hero: gaming.png
 author:
-  name: Jessica Jonas
+  name: Joshua Ogame
   image: /images/author/OgameJoshua.png
 ---
 
-  - Red Bull coliseum Overwatch tournament [talk](https://criticalindex.net/a-filipino-team-qualifies-for-the-red-bull-coliseum-overwatch-tournament-46185e11b24f) in Malaysia, 2017.
+  - Red Bull coliseum Overwatch tournament [link](https://criticalindex.net/a-filipino-team-qualifies-for-the-red-bull-coliseum-overwatch-tournament-46185e11b24f) in Malaysia, 2017.
