@@ -73,6 +73,3 @@ degrees:
     name: La Salle College of Antipolo
     url: "https://www.lsca.edu.ph/"
   name: Secondary Education
-  takenCourses:
-    courses:
-      - name: "Icefrog was my professor"
